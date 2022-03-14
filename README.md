@@ -4,7 +4,8 @@
 <h2><strong>Dates:</strong></h2>
 
 <ul>
-  <li>Exercise 1: 03.02.2022</li>
+  <li>Exercise 1: 03.03.2022</li>
+  <li>Exercise 2: 11.03.2022</li>
   
 </ul>
 
