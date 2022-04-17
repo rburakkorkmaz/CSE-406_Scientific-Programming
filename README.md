@@ -8,6 +8,7 @@
   <li>Exercise 2: 11.03.2022</li>
   <li>Exercise 3: 25.03.2022</li>
   <li>Exercise 4: 02.04.2022</li>
+  <li>Exercise 5: 17.04.2022</li>
 </ul>
 
 
